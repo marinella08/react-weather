@@ -1,0 +1,39 @@
+
+.form {
+  display:flex;
+  justify-content:right;
+ 
+
+}
+.search-city {
+  border-radius: 1px solid;
+  border-color: #42a5f5;
+  border-radius: 5px;
+  border-width: 2px;
+  color: black;
+  font-weight: 700;
+  background-color: white;
+  width: 250px;
+  height: 33px;
+  margin-top: 5px;
+
+}
+
+.search-btn {
+  border-radius: 1px solid;
+  border-color: #42a5f5;
+  border-radius: 5px;
+  border-width: 2px;
+  color: white;
+  background-color: #42a5f5;
+  width: 34px;
+  height: 34px;
+  
+}
+
+.Search .search-btn:hover {
+  background: white;
+  cursor: pointer;
+  opacity: 0.9;
+  transition: all 200ms ease;
+}

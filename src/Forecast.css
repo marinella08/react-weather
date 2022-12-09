@@ -1,0 +1,33 @@
+ .table-wind {
+    width: 40%;
+    color: white;
+    font-weight: bold;
+    
+    border: none;
+    border-color: #42a5f5;
+  }
+  
+ .table {
+    border-color: #42a5f5;
+    border-style: solid;
+    color: white;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+  }
+  .Forecast{
+    display: flex;
+    justify-content: right;
+    margin-top: -160px;
+    margin-right: -170px;
+    font-size: 20px;
+  }
+
+  .rowDesc {
+    text-align: left;
+  }
+
+  td {
+    text-align: left;
+    padding-right:180px;
+  }

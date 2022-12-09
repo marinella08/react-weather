@@ -1,0 +1,24 @@
+
+  
+.description {
+    text-transform: capitalize;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+    
+  }
+  
+  .h1 {
+    color: aqua;
+  }
+
+  .float-centre {
+    width: 200px;
+  }
+
+  .Image {
+    margin-top: -240px;
+    display: flex;
+    justify-content: center;
+  }

@@ -1,0 +1,10 @@
+.City h2 {
+    font-weight: 900;
+    font-size: 60px;
+  }
+  
+  .City .city {
+    margin-top: -20px;
+    margin-left: 40px;
+    color: #42a5f5;
+  }

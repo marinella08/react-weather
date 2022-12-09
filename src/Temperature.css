@@ -1,0 +1,12 @@
+.Temperature h1 {
+    font-weight: 900;
+    font-size: 60px;
+    color: white;
+  }
+  
+  .Temperature .temperature-city {
+    margin-top: -40px;
+    margin-left: 40px;
+    
+  }
+  
